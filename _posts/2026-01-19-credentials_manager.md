@@ -38,3 +38,7 @@ with the right information.
 - Vim/NeoVim
 - Python 3.13.9 (Using Anaconda for now, the Mac has an older Python version and I am not keen on using `pyenv`)
 - WxPython for the GUI.
+
+#### Name of the Project
+
+I have thought of naming the project monoxide, just for the fun of it.
